@@ -1,5 +1,5 @@
 %% ************************************************************************
-%********************* Matlab File into a CSV file ************************
+%************************ MAT-file into a CSV file ************************
 %**************************************************************************
 %
 % Franklenin Sierra
@@ -10,7 +10,7 @@
 % https://www.aesthetics.mpg.de/en.html
 %
 % *************************************************************************
-% This code transforms your MAT-file (wich contain numeric data) into a CSV file.
+% This code transforms the numeric data of your MAT-file into a CSV file.
 %
 % For our example we will use the file "example_responses.mat", which
 % contains four arrays of character data, and a colum of numeric data.
